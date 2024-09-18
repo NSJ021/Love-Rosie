@@ -36,6 +36,10 @@
     background-color: #525252;
 }
 
+.bg-color-contact {
+    background-color: #ffffff;
+}
+
 /* ------------------------------------------ Special padding/margins/text ---------------------------------------- */
 
 h1, h2, h3, h4 {
